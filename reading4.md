@@ -1,5 +1,7 @@
 # Reading 4
 
+This topic is important becuase we will be using Ubuntu. 
+
 ## Questions 
 
 What is Ubuntu?
