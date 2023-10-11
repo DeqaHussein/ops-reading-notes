@@ -8,7 +8,7 @@ What is Ubuntu?
 Its operating system is Linux.
 
 Why would you choose to install the LTS version over regular Ubuntu releases?
-It's stable, there's more support, and there are many other reasons.
+It's stable, there's more support.
 
 
 What is the Ubuntu GNOME Shell?
@@ -17,7 +17,7 @@ https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-gu
 
 How do I install software from the command line?
 This depends on two components.
-operating system
+Operating System
 Package Manager
     
 For Ubuntu, the article explains, "You can also manually update the system by running the graphical software updater application. If you prefer the command line, which is an option on Ubuntu, open a terminal window, then enter the command below to update the system. "
